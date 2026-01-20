@@ -5,6 +5,10 @@
 - I'm passionate about system design, software security and FOSS
 - Reach me here: [bresler.nitzan@gmail.com](mailto:bresler.nitzan@gmail.com)
 
+## Articles
+- [Bandle: A Lesson in Bad Cryptography](https://nitzanbresler.medium.com/bandle-a-lesson-in-bad-cryptography-f3c823c38898)
+- [Fighting Java Goblins](https://nitzanbresler.medium.com/fighting-java-goblins-17223b52eab6)
+
 <p align="center">
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="ts" width="40" height="40"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
 </p>
