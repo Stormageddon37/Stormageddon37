@@ -6,8 +6,8 @@
 - Reach me here: [bresler.nitzan@gmail.com](mailto:bresler.nitzan@gmail.com)
 
 ## Articles
-- [Bandle: A Lesson in Bad Cryptography](https://stormageddon37.github.io/posts/bandle/)
-- [Fighting Java Goblins](https://stormageddon37.github.io/posts/fighting-java-goblins/)
+- [Bandle: A Lesson in Bad Cryptography](https://nitz.blog/posts/bandle/)
+- [Fighting Java Goblins](https://nitz.blog/posts/fighting-java-goblins/)
 
 <!-- 
 
